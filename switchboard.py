@@ -31,7 +31,7 @@ while True:
         print('The highest monthly sales were:', max(sales_list))
 
     elif user_input == '4':
-        print('Thanks, you chose option 3')
+        print('Thanks, you chose option 4')
         print('The average sales per month were:', sum(sales_list) / len(sales_list))
 
     elif user_input == '0':
